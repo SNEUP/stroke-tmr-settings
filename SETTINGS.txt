@@ -3,8 +3,8 @@ A102, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
 A101, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
 A103, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
 A104, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
-A105, 300000, 1800, 0.9, 0.85, 240, FILES:s24.wav:s40.wav:s24.wav:s43.wav
-A106, 300000, 1800, 0.9, 0.85, 240, FILES:s1.wav:s10.wav:s13.wav:s19.wav
+A105, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
+A106, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
 A107, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
 A108, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
 
